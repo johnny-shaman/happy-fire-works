@@ -1,0 +1,16 @@
+{
+  "name": "FireWorks",
+  "version": "0.0.0",
+  "description": "A chat example to showcase how to use `socket.io` with a static `express` server with `async` for control flow.",
+  "main": "server.js",
+  "repository": "",
+  "author": "Mostafa Eweda <mo.eweda@gmail.com>",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.16.4",
+    "http": "^0.0.0",
+    "losand": "^1.5.0",
+    "losand.pvp": "^0.6.3",
+    "ws": "^6.1.0"
+  }
+}
